@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/william20111/simplecache/branch/main/graph/badge.svg)](https://codecov.io/gh/william20111/simplecache)
+
 # simplecache
 
 Simplecache is a key value in memory cache for applications that do not need a distributed cache.
