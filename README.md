@@ -1,4 +1,5 @@
 [![codecov](https://codecov.io/gh/william20111/simplecache/branch/main/graph/badge.svg)](https://codecov.io/gh/william20111/simplecache)
+[![GoReportCard example](https://goreportcard.com/badge/github.com/william20111/simplecache)](https://goreportcard.com/report/github.com/william20111/simplecache)
 
 # simplecache
 
